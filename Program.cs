@@ -12,6 +12,7 @@ namespace WindowsFormsApp2
         /// The main entry point for the application.
         /// </summary>
 ///
+///al doilea
         [STAThread]
         static void Main()
         {
